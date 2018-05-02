@@ -1,0 +1,2 @@
+# HexoBlogResource
+A generator Source
