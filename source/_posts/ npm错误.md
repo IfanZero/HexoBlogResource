@@ -1,3 +1,8 @@
+---
+title: NPM错误
+date: 2016-04-23 19:31:16
+tags:
+---
 当执行 npm install 的时候，出现下面的错误：
 
 ```js
